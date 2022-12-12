@@ -1,0 +1,7 @@
+*.pptx
+*.pickle
+*.pdf
+*.docx
+*.csv
+/Screenshots
+/.ipynb_checkpoints
